@@ -41,6 +41,11 @@ docker build --rm -t golang-docker-example .
 docker-compose up
 ```
 
+### Verify
+
+[app one](http://localhost:8081/)  
+[app two](http://localhost:8082/)
+
 ### Stopping Docker-Compose
 
 ```bash
